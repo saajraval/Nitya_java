@@ -1,3 +1,4 @@
+package Nitya_java;
 import java.util.Scanner;
 // java is a prog lang => str
 

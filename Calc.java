@@ -1,3 +1,4 @@
+package Nitya_java;
 import java.util.Scanner;
 public class Calc{
 

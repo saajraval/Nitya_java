@@ -1,3 +1,6 @@
+
+package Nitya_java;
+
 import java.util.Scanner ;
 
 public class VowelCount{
@@ -10,10 +13,10 @@ public class VowelCount{
 		System.out.println(str);
 		int vowel =0;
 		// convert our str too lower case character only
-		str = str.LowerCase();
+		str = str.toLowerCase();
 		for(int i=0;i<str.length();i++){
 
-			if(str.charAt(i)=='a' || str.charAt(i)=='e' || str.charAt(i)=='i' || str.charAt(i)=='o' || str.charAt(i)=='u' || ){
+			if(str.charAt(i)=='a' || str.charAt(i)=='e' || str.charAt(i)=='i' || str.charAt(i)=='o' || str.charAt(i)=='u'  ){
 				vowel++;
 			}
 			

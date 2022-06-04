@@ -1,4 +1,8 @@
+package Nitya_java;
+
 /*
+
+
 	case 1: prime 
 	case 2: reverse 
 	case 3: palindrome 

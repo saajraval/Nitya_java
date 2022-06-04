@@ -1,3 +1,4 @@
+package Nitya_java;
 //A => 1 2         B =>1 2 0
 //	 -1 0 		   1 -1 3 
 import java.util.Scanner ;   

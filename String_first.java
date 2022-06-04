@@ -1,3 +1,6 @@
+package Nitya_java;
+
+
 import java.util.Scanner;
 
 public class String_first{

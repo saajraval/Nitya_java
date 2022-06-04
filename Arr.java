@@ -1,3 +1,4 @@
+package Nitya_java;
 // Array -> It is a collection of elements of same data type 
 //1 2 3 4 
 

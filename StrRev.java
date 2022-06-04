@@ -1,3 +1,5 @@
+package Nitya_java;
+
 import java.util.Scanner;
 public class StrRev{
 //1 2 3 4 => size -1
