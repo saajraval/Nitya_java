@@ -1,6 +1,7 @@
 package Nitya_java;
 
-
+// take one 2-D array from user and sort it  
+//-> 2-D to 1-D sort logic -> back to 2 D array
 
 import java.util.Scanner;
 
@@ -52,7 +53,20 @@ public class TwoD_Arr{
 			}
 			System.out.println("");
 		}//end of rows
-	
+		
+		//-------------------------
+	// 3*3 -> 9 r-> 3 c-> 3
+		int [] oneD = new int[r1*c1];// 0 ->
+		int k=0;
+		for(int i=0 ;i<r1;i++) {
+			for(int j=0;j<c1;j++) {
+				oneD[k]=a[i][j];
+				k++;
+			}
+		}
+		
+		
+		//-------------------------
 		System.out.println("The array 2 is : \n ");
 		for(int i =0;i<r2;i++){
 			for(int j=0;j<c2;j++){
